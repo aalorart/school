@@ -52,7 +52,7 @@ ul li a:hover {
 	background: #DCDCDC;
 	border-radius: 1px;
 }
-@media screen and (max-width: 796px) 
+@media screen and (max-width: 800px) 
 {
 	header {
 		flex-direction: column;
@@ -72,24 +72,24 @@ ul li a:hover {
 		margin: 7px 0 7px 0; 
 	}
 }
-.contents {
+.content {
 	background-color: #3F9BA6;
 	padding: 0 auto;
 	box-sizing: border-box;
 }
-.content img {
+.content content1 {
 	display: inline-block;
 	width: 550px;
 	margin: 0 auto;
 	transition: .4s;
 	cursor: pointer;
 }
-.content {
+.content2 {
 	padding: 0 auto;
 	justify-content: center;
 	font: center;
 }
-.content1 img {
+.content2 content3 {
 	display: inline-block;
 	width: 550px;
 	margin: 0 auto;
